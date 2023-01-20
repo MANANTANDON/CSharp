@@ -5,7 +5,7 @@ class Manan
 {
     static void Main()
     {
-        Console.WriteLine("Welcome To Manan's Land.....\n\n\n");
+        Console.WriteLine("Welcome.....\n\n\n");
         Factorial();
 
     }
